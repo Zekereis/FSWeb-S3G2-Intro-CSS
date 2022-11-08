@@ -32,8 +32,8 @@ Aşağıdaki adımları takip edin.:
 
 Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğiniz site stillemeye dair pratik yapın. Tamamladığınız sayfanın verdiğimiz dizayn dosyasına benziyor olması gerekmektedir. Minimum yeterliliği sağlamak için aşağıda verilenleri uygulayın:
 
-- [ ] CSS stylesheet dosyanızı `index.html` dosyasına linkleyin 
-- [ ] Verilen görüntüyü elde etmek için HTML etiketlerinizi semantik(anlamsal) olarak ekleyin
+- [x] CSS stylesheet dosyanızı `index.html` dosyasına linkleyin 
+- [x] Verilen görüntüyü elde etmek için HTML etiketlerinizi semantik(anlamsal) olarak ekleyin
 - [ ] Menü elemanlarını ve footer(altbar)'ı arkaplanlarını(background) renklendirmek için verilen renk kodlarını kullanın:
   - [ ] Gezinizi Planlayın: `#FF764E`
   - [ ] Bilgi Edinin: `#5ED3EB`
