@@ -38,12 +38,12 @@ header nav a:first-child{
     margin-right: 20%;
 }
 
-.image-ortala{
+.image-ortalama{
     width: 35%;
     display: inline-block;
 }
 
-.image-ortala:last-child{
+.image-ortalama:last-child{
     width: 55%;
     text-align: center;
     
